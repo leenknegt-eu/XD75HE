@@ -1,6 +1,6 @@
-# HE75
+# XD75HE
 
-HE75 is a 60% Hall-effect keyboard PCB with 8kHz polling rate designed in the layout of the KPRepublic XD75RE.
+XD75HE is a 60% Hall-effect keyboard PCB with 8kHz polling rate designed in the layout of the KPRepublic XD75RE.
 
 ## Features
 
