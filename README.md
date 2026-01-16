@@ -1,6 +1,6 @@
-# HE75
+# XD75HE
 
-HE75 is a 60% Hall-effect keyboard PCB with 8kHz polling rate designed in the layout of the KPRepublic XD75RE.
+XD75HE is a 60% Hall-effect keyboard PCB with 8kHz polling rate designed in the layout of the KPRepublic XD75RE.
 
 ## Features
 
@@ -49,8 +49,3 @@ The following items are required to build the PCB:
 ## Firmware
 
 Head to [libhmk](https://github.com/peppapighs/libhmk/releases) for a pre-compiled firmware. The firmware can be flashed using DFU mode, which can be entered by holding the BOOT button before plugging in. You may need to install the DFU bootloader driver using Zadig. See [libhmk](https://github.com/peppapighs/libhmk) for more information for firmware flashing instructions.
-
-## Acknowledgements
-
-- Xelus from AEBoards for reviewing the PCB design and providing feedback.
-- Keyboard Atelier community for supporting the project.
